@@ -15,16 +15,34 @@ the first thing that should be taught is form.
   <fieldset>
     <legend> any data</legend>
     <p>
-      <label>any data</label>
-      <input type= "text" name="" id="" value="" class="" placeholder="" />
+      <label for="" form="">any data</label>
+      <input type= "text" name="" id="" value="" class="" placeholder="" autofocus/ required heightpattern size>
       <input type= "password" name="" id="" value="" class="" placeholder="" />
-      <input type= "submit" name="" id="" value="" class="" onclick="" />
+      <input type= "color" name="" id="" value="" class="" placeholder="" />
+      <input type= "date" name="" id="" value="" class="" placeholder="" />
+      <input type= "datetime-local" name="" id="" value="" class="" placeholder="" />
+      <input type= "email" name="" id="" value="" class="" placeholder="" />
+      <input type= "hidden" name="" id="" value="" class="" placeholder="" />
+      <input type= "month" name="" id="" value="" class="" placeholder="" />
+      <input type= "submit" src="" name="" id="" value="" class="" onclick="" />
+      <input type= "reset" name="" id="" value="" class="" placeholder="" />
+      <input type= "search" name="" id="" value="" class="" placeholder="" />
+      <input type= "time" name="" id="" value="" class="" placeholder="" />
+      <input type= "url" name="" id="" value="" class="" placeholder="" />
+      <input type= "week" name="" id="" value="" class="" placeholder="" />
       <input type= "tel" name="" id="" value="" class="" placeholder="" />
-      <input type= "num" name="" id="" value="" class="" placeholder="" />
+      <input type= "number" name="" id="" value="" class="" placeholder="" />
       <input type= "radio" name="" id="" value="" class="" placeholder="" checked />
       <input type= "checkbox" name="" id="" value="" class="" placeholder="" checked/>
       <input type= "button" name="" id="" value="" class="" placeholder="" />
       <input type= "range" name="" id="" value="" class="" placeholder="" />
+      <input type= "file" name="" accept="image/*">
+      <input type= "file" name="" accept="audip/*">
+      <input type= "file" name="" accept="vedio/*">
+      <input type= "file" name="" accept=".png/*">
+      <input type= "file" name="" accept=".pdf/*">
+      <input type= "image"
+      
       
       
       <select name = "fruits" size= "" multiple>
@@ -34,11 +52,20 @@ the first thing that should be taught is form.
       </select>
       
       
-      <textarea name="" rows="" cols="" style=>
+      <textarea name="" rows="" cols="" style="" autofocus placeholder="" wrap>
       
       <button type = "button" onclick="" ><button>
       
-      <datalist>
+      
+      
+      <input list= "fruits" name ="fruits>
+      <datalist id="fruits">
+        <option value = "banana" selected>
+        <option value = "orange">
+        <option value = "apple">
+       <datalist id="fruits">
+      
+      <optgroup>
       <output>
       
       </textarea>
