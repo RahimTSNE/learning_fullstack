@@ -11,16 +11,37 @@ the first thing that should be taught is form.
 3. form uses all the layer of web. form interact with the server, with the database, with the user (client)
 4. so at first i will learn markup(html) of form then styling(css) of form then server and database interactions.
 <code>
-<form name="" action="" enctype="" autocomplete>
+<form name="" action="" enctype="" target="" method= "" autocomplete>
   <fieldset>
     <legend> any data</legend>
     <p>
       <label>any data</label>
       <input type= "text" name="" id="" value="" class="" placeholder="" />
       <input type= "password" name="" id="" value="" class="" placeholder="" />
-      <input type= "submit" name="" id="" value="" class="" placeholder="" />
+      <input type= "submit" name="" id="" value="" class="" onclick="" />
       <input type= "tel" name="" id="" value="" class="" placeholder="" />
       <input type= "num" name="" id="" value="" class="" placeholder="" />
+      <input type= "radio" name="" id="" value="" class="" placeholder="" checked />
+      <input type= "checkbox" name="" id="" value="" class="" placeholder="" checked/>
+      <input type= "button" name="" id="" value="" class="" placeholder="" />
+      <input type= "range" name="" id="" value="" class="" placeholder="" />
+      
+      
+      <select name = "fruits" size= "" multiple>
+        <option value = "banana" selected>banana</option>
+        <option value = "orange">orange</option>
+        <option value = "apple">apple</option>
+      </select>
+      
+      
+      <textarea name="" rows="" cols="" style=>
+      
+      <button type = "button" onclick="" ><button>
+      
+      <datalist>
+      <output>
+      
+      </textarea>
      <p>
     <fieldset>
  </form
