@@ -10,3 +10,17 @@ the first thing that should be taught is form.
 2. form is the best choice to learn those interaction.
 3. form uses all the layer of web. form interact with the server, with the database, with the user (client)
 4. so at first i will learn markup(html) of form then styling(css) of form then server and database interactions.
+<form name="" action="" enctype="" autocomplete>
+  <fieldset>
+    <legend> any data</legend>
+    <p>
+      <label>any data</label>
+      <input type= "text" name="" id="" value="" class="" placeholder="" />
+      <input type= "password" name="" id="" value="" class="" placeholder="" />
+      <input type= "submit" name="" id="" value="" class="" placeholder="" />
+      <input type= "tel" name="" id="" value="" class="" placeholder="" />
+      <input type= "num" name="" id="" value="" class="" placeholder="" />
+     <p>
+    <fieldset>
+ </form
+      
