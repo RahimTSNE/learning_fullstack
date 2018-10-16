@@ -12,3 +12,5 @@ my approach @ Now its time to nail it.
      Then after we was introduced with dynamic tecnologies. and they all comes with different languages and syntax and this is the major barrier. server technolgies are different, on the top programming languages are different and then database language are different and html, css is always there.
      
      The development in javascript is the rescue which comes with the field force in every layer of technologies. So what i feel it should be the primary language of learning together with html and css.
+     
+     
