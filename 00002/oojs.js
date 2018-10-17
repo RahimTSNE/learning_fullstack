@@ -23,7 +23,7 @@ console.log (manager.name);
 console.log(employee.name);
 manager.greet();
 
-es6 class
+//es6 class
 
 class Person{
     
