@@ -37,7 +37,7 @@ class Pers{
         this.lastName = last;
         this.age = age;
         // setter properties from the parameters
-        this.fullName = firstName + " " + middleName + " " + lastName;
+        this.fullName = this.firstName + " " + this.middleName + " " + this.lastName;
         this.hairColor = "black"; // notice it is string
         
     }
