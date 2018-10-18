@@ -2,7 +2,7 @@ function Person(name,age){
 
 // this are the properties of object
     this.name = name;
-    this.age = age
+    this.age = age;
 // properties can be called as Person.name
 
 
