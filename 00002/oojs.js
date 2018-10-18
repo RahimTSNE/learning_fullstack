@@ -36,12 +36,13 @@ class Pers{
         this.middleName = middle;
         this.lastName = last;
         this.age = age;
+        this._eyeColor = "black";
         // setter properties from the parameters
         this.fullName = this.firstName + " " + this.middleName + " " + this.lastName;
         this.hairColor = "black"; // notice it is string
         
     }
-    greet(){
+    this.greet = function(){
         console.log("Hello my name is " + this.name);
     }
 }
