@@ -13,4 +13,6 @@ my approach @ Now its time to nail it.
      
    The development in javascript is the rescue which comes with the field force in every layer of technologies. So what i feel it should be the primary language of learning together with html and css.
      
-     
+@important concepts
+
+you don't write just an app, you write an app server in nodejs
